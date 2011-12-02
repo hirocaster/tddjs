@@ -1,0 +1,10 @@
+手順
+=====
+# サーバーを起動する
+ $ ./server.sh
+
+# 環境変数をセットする
+ $ ./setup_env.sh
+
+# テストを実行する
+ $ jstestdriver --tests all
